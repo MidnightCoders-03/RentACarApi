@@ -31,7 +31,7 @@
 
 * Müşteriler:
   * Tarih aralığı belirtip müsait araç listeleyebilir.
-  * Rezerve edilmiş bir aracı, o tarihlerde rezerve edemez. ✔
+  * Rezerve edilmiş bir aracı, o tarihlerde rezerve edemez.
   * Seçilen tarih aralığında araç rezerve edilebilir, ancak aynı tarih aralığında ikinci bir araç kiralayamaz.
   * Rezervasyonlarını listeyebilir, ekleyebilir, okuyabilir.
   * Rezervasyonlarını güncelleyemez, silemez.
